@@ -1,10 +1,10 @@
-import banner from '../assets/banner.png'
-import logo from '../assets/logo.png'
+import banner from '../assets/banner1.png'
+import logo from '../assets/logo1.png'
 
 export const collectionData = {
-  name: 'CryptoPunks',
+  name: 'Metroverse Genesis',
   description:
-    'CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.',
+    'Metroverse is a land trading NFT strategy game on Ethereum. Collect, trade, and battle to earn the MET utility token.',
   isVerified: true,
   banner_image_url: banner,
   image_url: logo,
